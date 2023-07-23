@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "deepakdimri-542-20230720074503",
+  "private_key_id": "aab1344e1a19fba095d4e5069ec1d4a19b9105b2",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCpBJxOQ1xrc2tN\nktpqPIbMDUTIR2cuIMNtURLMZwfnPzfSU0YOeT8VyJMWDGGB1rPVdGKC+4sGiHzL\nw1+XXdSUjP48frWvSBoPqB9k/Wx6VzzSO1DW+d4rxOoOBSRZFNMPVoQAZZLNIWbr\na3qwwnNbxfOCGTbsZTRKMQ+8mKck+4y9xboxZlBrHTBn9M+7KqSq2SAfUFmDEd3N\nWdHi/Jqo4TO1NeHtZFEhTq/v6mSf3deo0r3/A47GwsQ6tE1c1Px7qnqXNexZEceW\nthEPcLpZBkqOZhVO0nD7BewtFrwydZsdp2fv/bh3qimVAF3rVajWezCCcaQyzYov\ntUFj6I+RAgMBAAECggEAB2T5C0BNl5kOslYg0bg6k+YAtfWc9GetvrQzt/DKAVP1\n6gqHbIEUp99Rwz7Ha7OSkPdTWAFC4J/k1dIcwujxlyfHKt5gR7FGP2kbkBxTCQcu\nbtD2UgsC4IDwIuAWtwIyOazCgA6+XW5L3zQHw7PxWBKELmAfOjhmd6VHcV88Vy6X\n+TARcY9YLFbvwhDJSTZy1rGHSMeQVfmhLL3E/gkQ6vP1C5ZBYPquJUP/pEYxsPKM\n3wLRdu8/mJkFnEpNQKvuQHQFHxhSeZLTnIxB0iISPADNj7+lKxstMWtD7ryjrFMY\nxmnhIhlfMZVEJqu/uYkt7mZSUMkLpi5eQamhDUdgAQKBgQDSRkX3EH2o7zL72DtR\n6YtM8N76WsCuDdcSjsfUu0aAzOuBEcdipNKusitRHAfquJ0ATd46mXuYqayxZMSe\niJV3Y0+XW/qOTfn4tMozPlIT1doYmJJZB29ZfZfxcuRaRD9HHhiaf0Fioh0lwbxR\nnkP3BRLrbyaflQddEXphG/QOJwKBgQDNxaNiaWjtlWxEnWPoEaVo1rrmRqn/rXuV\niGD6GeJ67c9piUegEOu2cGATO10WH3ItyY3mPXep/AfypaiLkEkLawJjz3XMcgxY\nXe7eiDNnQXkOMly5msjsFGOAZ9wq2C3fb1Ig8TnvJEulVLQMZo9QSL3rlWvoZk7s\nQhjrYOq/hwKBgG+8SedsiumfGd972qG/UXd0M3ijiumyjwvcdVGUpnVA7w/p66J+\nZTnRkXULSSWwLjWAK0vGTUglOZAWNOjtOUd0rVGH3c+Knf9LynqKbkD+DWOuh23p\npoDOXVQ/MhrJUzquQnKuloccEBMFLNXOHN2Bg7k5mjOIlJ4e8IHzwa9XAoGAIsa4\nKjWuahjKx33iGKKC1gkUZT6kFHX5YPg/i4U8ZZIzb56n4EF71MWBNz7dKJP/9AUQ\nWk0hIDVcEoI0zgGAltFrAftZ6UeNFpIpgKp8JYNHNkMEsMmcE2oOtvDWoNcQSabC\ntpaOOABmWHbMRxw+NE9W6a3DIu/Hft5c38rtYZkCgYEAlUAQbZk2c5DuJSSiJ7Vf\nU+62t9YycGNjXt+pEN1M/eNs6gBdnNmOnDufQFY+g8KS6wZ8I4sP8L9JeAbCS4Tn\nnqKRyEQ8m+N3AbmRQMVMyED+94ub3WSUtEVznrON2lErh7QiqSVmKPDTMEjDuvLM\n8IZpA8xTXLEGkBCNuA42/w4=\n-----END PRIVATE KEY-----\n",
+  "client_email": "test-sa-public-github@deepakdimri-542-20230720074503.iam.gserviceaccount.com",
+  "client_id": "104672167365101950813",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/test-sa-public-github%40deepakdimri-542-20230720074503.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
